@@ -1,0 +1,3 @@
+[submodule "core/lib/efiplusplus"]
+	path = core/lib/efiplusplus
+	url = git@github.com:lifelessPixels/efi-plus-plus.git
